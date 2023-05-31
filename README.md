@@ -52,7 +52,7 @@ The project
 └───Results
 └───...
 ```
-(Since the dataset is too large to be uploaded to github, Please email the author bjqin@sjtu.edu.cn for the access of more dataset.)
+(Since the dataset is too large to be uploaded into github, Please email the author bjqin@sjtu.edu.cn for the access of more dataset.)
 
 ## Getting Started
 
