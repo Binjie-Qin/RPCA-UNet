@@ -4,7 +4,7 @@ By Binjie Qin, Haohao Mao, Yiming Liu, Jun Zhao, Yisong Lv, Yueqi Zhu, Song Ding
 
 This repository is a pytorch implementation of ["Robust PCA Unrolling Network for Super-Resolution Vessel Extraction in X-Ray Coronary Angiography"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9780367).
 
-Notes: The dataset is not publically accessed for the research purpose due to the medical ethics review agreement assigned with hospital offical, who confirmed that the raw image data should not be given to anyone outside the author research team. 
+Note: The dataset is not publically accessed for the research purpose due to the medical ethics review issued by hospital offical, who confirmed that the raw image data should not be given to anyone outside the author team. 
 
 ## Introduction
 We propose a novel robust PCA unrolling network with sparse feature selection for super-resolution XCA vessel imaging. Being embedded within a patch-wise spatiotemporal super-resolution framework that is built upon a pooling layer and a convolutional long short-term memory network, the proposed network can not only gradually prune complex vessel-like artefacts and noisy backgrounds in XCA during network training but also iteratively learn and select the high-level spatiotemporal semantic information of moving contrast agents flowing in the XCA-imaged vessels.
